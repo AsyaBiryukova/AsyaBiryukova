@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there, I'm Asya 👋
+### GO developer on weekdays, Dungeon Master on weekends
 
 <!--
 **AsyaBiryukova/AsyaBiryukova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
